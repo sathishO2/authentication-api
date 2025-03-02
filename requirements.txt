@@ -4,3 +4,5 @@ pydantic
 alembic
 passlib
 bcrypt
+PyJWT
+cryptography
